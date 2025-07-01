@@ -1,11 +1,11 @@
 {
     "reservations": [],
     "areas": [
-        {"id": 1, "name": "Forest Hills"},
-        {"id": 1, "name": "Forest Hills"},
-        {"id": 1, "name": "Forest Hills"},
-        {"id": 1, "name": "Forest Hills"},
-        {"id": 1, "name": "Forest Hills"}
+        {"id": 1, "name": "Petticoat Creek Lake Ontario"},
+        {"id": 1, "name": "Lynde Shores"},
+        {"id": 1, "name": "Bruce Mill"},
+        {"id": 1, "name": "Thornton Bales"},
+        {"id": 1, "name": "Rattray Marsh"}
     ]
 }
 
